@@ -1,0 +1,11 @@
+name: spawnpigs
+version: 1.0
+main: mepablo.test.Main
+api-version: 1.16
+authors: [ Pablo, Padilla ]
+description: Testing plugins
+
+commands:
+  spawnpigs:
+    aliases: [sp]
+    description: /sp to spawn 10 pigs
